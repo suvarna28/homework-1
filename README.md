@@ -17,7 +17,7 @@ N/A
 
 ## Screenshot
 
-
+![Main Webpage](/assets/01-html-css-git-homework-demo.png?raw=true "Screenshot")
 
 ## Link to the deployed application
 
